@@ -1,0 +1,2 @@
+model_checkpoint_path: "c3c3p_c3c3p_fc_fc_fc.ckpt"
+all_model_checkpoint_paths: "c3c3p_c3c3p_fc_fc_fc.ckpt"
